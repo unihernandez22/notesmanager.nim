@@ -1,0 +1,1 @@
+# notesmanager.nim
